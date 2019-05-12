@@ -44,4 +44,23 @@ collections:
                 widget: "boolean"
                 required: false
                 default: false
+              - label: "Content"
+                name: "content"
+                widget: "markdown"
+          - label: "Two Column Text"
+            name: "twoColumnText"
+            widget: "object"
+            fields:
+              - label: "Section Heading"
+                name: "heading"
+                widget: "string"
+              - label: "Lead In"
+                name: "leadin"
+                widget: "markdown"
+              - label: "Column 1"
+                name: "columnOne"
+                widget: "markdown"
+              - label: "Column 2"
+                name: "columnTwo"
+                widget: "markdown"  
           
