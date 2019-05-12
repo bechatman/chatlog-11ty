@@ -7,6 +7,4 @@ Testing
 
 This is a test
 
-
-
 ![Test](/assets/img/trucky.jpg)
