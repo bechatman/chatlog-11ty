@@ -2,11 +2,12 @@
 layout: default
 title: test
 date: 2019-05-12T05:52:17.287Z
+permalink: /{{ title | slug }}/index.html
 components:
   - content: |-
       This is markdown content
 
-      ### This is a heading 3
+      ### "This is a - heading 3
 
       This is content
     heading: Testing

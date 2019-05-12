@@ -17,7 +17,7 @@ collections:
         default: "default"
       - label: "Permalink"
         name: "permalink"
-        widget: "hidden"
+        widget: "string"
         default: "/{{ title | slug }}/index.html"
       - label: "Title" 
         name: "title"
