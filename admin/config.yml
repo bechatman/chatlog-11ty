@@ -11,10 +11,37 @@ collections:
     create: true
     slug: "{{slug}}"
     fields:
-      - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
+      - label: "Layout"
+        name: "layout"
+        widget: "hidden"
+        default: "default"
+      - label: "Permalink"
+        name: "permalink"
+        widget: "hidden"
+        default: "/{{ title | slug }}/index.html"
       - label: "Title" 
         name: "title"
         widget: "string"
-      - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Body", name: "body", widget: "markdown"}
-      - {label: "Permalink", name: "permalink", widget: "hidden", default: "/{{ title | slug }}/index.html"}
+      - label: "Publish Date"
+        name: "date"
+        widget: "datetime"
+      - label: "Body"
+        name: "body"
+        widget: "markdown"
+      - label: "Components"
+        name: "components"
+        widget: "list"
+        types:
+          - label: "One Column Text"
+            name: "oneColumnText"
+            widget: "object"
+            fields:
+              - label: "Section Heading"
+                name: "heading"
+                widget: "string"
+              - label: "Hide Heading"
+                name: "hideHeading"
+                widget: "boolean"
+                required: false
+                default: false
+          
