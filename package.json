@@ -1,9 +1,13 @@
 {
   "devDependencies": {
-    "@11ty/eleventy": "^0.8.3"
+    "@11ty/eleventy": "^0.8.3",
+    "markdown-it": "^8.4.2",
+    "markdown-it-anchor": "^5.0.2"
   },
   "scripts": {
     "start": "npx eleventy --serve",
-    "build": "npx eleventy"
-  }
+    "build": "npx eleventy",
+    "debug": "DEBUG=Eleventy* npx eleventy"
+  },
+  "dependencies": {}
 }

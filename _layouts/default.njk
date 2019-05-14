@@ -9,9 +9,10 @@
     {{ content | safe }}
     {% for component in components %}
       {% if component.type == 'oneColumnText'%}
-        {{ component.content }}
+        {{ component | inspect }}
       {% endif %}
     {% endfor %}
+    
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
   </body>
 </html>
