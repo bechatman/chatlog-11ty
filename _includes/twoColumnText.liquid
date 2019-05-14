@@ -1,0 +1,18 @@
+<section class="twoColumn{% if component.backgroundColor %} bg-{{component.backgroundColor}}{% endif %}">
+  <div class="container">
+    {% if component.sectionHeading and component.hideHeading != null %}
+      <h2>{{ component.sectionHeading }}</h2>
+    {% endif %}
+    {% if component.leadin %}
+      {{ component.leadin | markdown | safe }}
+    {% endif %}
+    <div class="columns">
+      {% if component.columnOne %}
+        {{ component.columnOne | markdown | safe }}
+      {% endif %}
+      {% if component.columnTwo %}
+        {{ component.columnTwo | markdown | safe }}
+      {% endif %}
+    </div>
+  </div>
+</section>

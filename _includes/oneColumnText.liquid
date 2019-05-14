@@ -1,0 +1,7 @@
+<section class="oneColumn{% if component.backgroundColor %} bg-{{component.backgroundColor}}{% endif %}">
+  <div class="container">
+    {% if component.content %}
+      {{ component.content | markdown | safe }}
+    {% endif %}
+  </div>
+</section>

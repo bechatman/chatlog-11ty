@@ -12,6 +12,7 @@ components:
       This is content
     heading: Testing
     type: oneColumnText
+    backgroundColor: orange
   - columnOne: This is a column 1
     columnTwo: This is a column 2
     heading: Two Column Heading
