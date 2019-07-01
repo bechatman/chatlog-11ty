@@ -3,6 +3,7 @@ layout: post
 permalink: '/{{ title | slug }}/index.html'
 title: 'Album Pick: Quiet Company, ''On Corners & Shapes'''
 date: 2019-04-01T16:15:19.834Z
+shareImage: /assets/img/quiet-company.jpg
 tags:
   - music
 author: Brian Chatman
