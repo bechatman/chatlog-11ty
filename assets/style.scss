@@ -1,0 +1,238 @@
+@import 'normalize.css';
+@import 'variables';
+// scss-lint:disable all
+@import '../components/**/*.scss';
+// scss-lint:enable all
+
+// ==============================
+// Layout
+// General layout styles that may be overriden by components
+// ==============================
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 80%;
+
+  @media screen and (min-width: $small) {
+    font-size: 100%;
+  }
+}
+
+html,
+body {
+  height: 100%;
+  margin: 0;
+  width: 100%;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  font-family: $font;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-weight: 400;
+  text-rendering: optimizeLegibility;
+}
+
+main {
+  flex: 1 0 auto;
+}
+
+// ==============================
+// Containers
+// ==============================
+
+.container {
+  margin: 0 auto;
+  max-width: $large;
+  padding-bottom: $container-spacing;
+  padding-left: 1em;
+  padding-right: 1em;
+  padding-top: $container-spacing;
+  width: 100%;
+}
+
+.blogPost .container {
+  max-width: 60em;
+}
+
+.has-albums .blogPost h2,
+.has-albums .blogPost h3 {
+  clear: both;
+}
+
+.collapse-all {
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+
+.collapse-top {
+  padding-top: 1em;
+}
+
+.collapse-bottom {
+  padding-bottom: 1em;
+}
+
+// ==============================
+// Images
+// ==============================
+
+img,
+svg {
+  height: auto;
+  max-width: 100%;
+  position: relative;
+}
+
+svg {
+  max-height: 100%;
+}
+
+// ==============================
+// Embeds
+// ==============================
+
+.embed-container {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  overflow: hidden;
+  max-width: 100%;
+}
+
+.embed-container iframe,
+.embed-container object,
+.embed-container embed {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+// =========================
+// Headings
+// =========================
+
+h1 {
+  font-family: $headline;
+  font-weight: 600;
+  font-size: 4em;
+}
+
+h2 {
+  font-family: $headline;
+  font-weight: 600;
+  font-size: 3em;
+}
+
+h3 {
+  font-family: $headline;
+  font-weight: 600;
+  font-size: 1.8em;
+}
+
+h4 {
+  font-family: $headline;
+  font-weight: 600;
+  font-size: 0.8em;
+  text-transform: uppercase;
+}
+
+// =========================
+// Body
+// =========================
+
+p {
+  color: #555;
+  font-size: 1.25em;
+  font-weight: 400;
+}
+ul,
+ol {
+  font-weight: 400;
+  margin: 0 0 1em;
+}
+
+li {
+  color: #555;
+  font-size: 1.25em;
+  font-weight: 400;
+  margin-bottom: 0.3em;
+}
+
+strong,
+b {
+  font-style: normal;
+  font-weight: 800;
+}
+
+em,
+i {
+  font-style: italic;
+  font-weight: 400;
+}
+
+// =========================
+// Links and buttons
+// =========================
+
+a {
+  color: $primary;
+  text-decoration: underline;
+  &:hover {
+    text-decoration: none;
+  }
+}
+
+.content {
+  @media (min-width: $small) {
+    a {
+      color: black;
+      display: inline-block;
+      position: relative;
+      text-decoration: none;
+      transition: color 0.19s ease-in-out 0.09s;
+
+      &::after {
+        background: $primary;
+        bottom: 0.15em;
+        content: '';
+        height: 1px;
+        left: 0;
+        position: absolute;
+        transition: height 0.19s ease-in-out;
+        width: 100%;
+        z-index: -1;
+      }
+
+      &:hover {
+        color: white;
+        &::after {
+          height: calc(100% - 0.15em);
+        }
+      }
+    }
+  }
+}
+
+// =========================
+// Blockquote
+// =========================
+
+blockquote {
+  border-left: 5px solid $primary;
+  font-size: 1.2em;
+  margin: 0;
+  padding: 1em 2em;
+
+  p {
+    font-style: italic;
+    font-weight: 400;
+  }
+}

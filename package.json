@@ -9,5 +9,7 @@
     "build": "npx eleventy",
     "debug": "DEBUG=Eleventy* npx eleventy"
   },
-  "dependencies": {}
+  "dependencies": {
+    "normalize.css": "^8.0.1"
+  }
 }
