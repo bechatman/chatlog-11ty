@@ -1,3 +1,6 @@
+require('dotenv').config();
+const lfmAlbumArt = require('./_shortcodes/lfmAlbumArt');
+
 module.exports = (config) => {  
   // Ignore files and pass through
   config.addPassthroughCopy('./admin');
@@ -26,6 +29,10 @@ module.exports = (config) => {
   
   config.setLibrary('md', md);
   config.addFilter('markdown', value => md.render(value))
+
+  // Set Shortcodes
+
+  config.addPairedShortcode('album', lfmAlbumArt);
   
   return {
     // Set Layout Directory

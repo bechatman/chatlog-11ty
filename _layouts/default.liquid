@@ -1,7 +1,7 @@
 ---
 layout: base
 ---
-
+{{ content | safe }}
 {% for component in components %}
   {% include component.type %}
 {% endfor %}

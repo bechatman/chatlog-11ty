@@ -1,0 +1,14 @@
+{% for album in topAlbums limit: 6 %}
+  {% assign artist = album.artist %}
+  {% assign image = album.image | last %}
+  {% assign name = album.name  %}
+  <li><img src="{{ image['#text'] }}" alt="">
+    <a href="{{artist.url}}" class="overlay">
+      <span class="artist">{{artist.name}}</span>
+      <span class="album">{{name}}</span>
+    </a>
+  </li>
+{% endfor %}
+<script>
+var topAlbums = {{ topAlbums | json }}
+</script>
