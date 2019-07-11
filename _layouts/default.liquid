@@ -3,5 +3,7 @@ layout: base
 ---
 {{ content | safe }}
 {% for component in components %}
-  {% include component.type %}
+  {% assign url = '../_components' + component.type + component.type + '.liquid' %}
+  {{ url }}
+   include component.type 
 {% endfor %}

@@ -1,5 +1,6 @@
 require('dotenv').config();
-const lfmAlbumArt = require('./_shortcodes/lfmAlbumArt');
+const lfmAlbumArt = require('./_11tyExtensions/lfmAlbumArt');
+const urlEscape = require('./_11tyExtensions/urlEscape');
 
 module.exports = (config) => {  
   // Ignore files and pass through
@@ -18,7 +19,8 @@ module.exports = (config) => {
   let options = {
     html: true,
     breaks: true,
-    linkify: true
+    linkify: true,
+    typographer: true
   };
   let opts = {
     permalink: false
@@ -29,6 +31,7 @@ module.exports = (config) => {
   
   config.setLibrary('md', md);
   config.addFilter('markdown', value => md.render(value))
+  config.addFilter('urlEscape', data => urlEscape(data))
 
   // Set Shortcodes
 
@@ -37,7 +40,7 @@ module.exports = (config) => {
   return {
     // Set Layout Directory
     dir: {
-      includes: '_includes',
+      includes: '_components',
       layouts: '_layouts'
     }
   }

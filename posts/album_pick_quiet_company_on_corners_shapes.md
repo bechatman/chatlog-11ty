@@ -1,7 +1,7 @@
 ---
 layout: post
-permalink: '/{{ slug }}/index.html'
-title: 'Album Pick: Quiet Company, ''On Corners & Shapes'''
+permalink: /{{ title | slug | urlEscape }}/index.html
+title: "Album Pick: Quiet Company, 'On Corners & Shapes'"
 date: 2019-04-01T11:30:00.000Z
 shareImage: /assets/img/quiet-company.jpg
 tags:
@@ -10,7 +10,7 @@ tags:
 author: Brian Chatman
 ---
 {% album 'Quiet Company' 'Red Right Hand' %}
-'Red Right Hand,' the albums's lead-off single may be the most recognizable to long-time fans on an EP that pushes the boundaries of Quiet Company's sound.
+'Red Right Hand,' the album's lead-off single may be the most recognizable to long-time fans on an EP that pushes the boundaries of Quiet Company's sound.
 {% endalbum %}
 
 Quiet Company has the distinction of being the band that has changed the most of any band I've listened to while keeping a fairly consistent sound. From the Christian Rock hangover of *Shine Honesty* to their breakup with god on *We Are All Where We Belong,* The band had a distinct perspective of writing love songs that tackled big topics — specifically losing your faith in a religious family and getting married and raising a child in the midst of that.
