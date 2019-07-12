@@ -3,5 +3,5 @@ layout: base
 ---
 {% for component in components %}
   {% capture path %}{{component.type}}/{{component.type}}{% endcapture %}
-  {% include path %}
+  {% include 'oneColumnText/oneColumnText' %}
 {% endfor %}
