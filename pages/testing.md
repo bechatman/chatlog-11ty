@@ -7,5 +7,8 @@ components:
   - content: This is a test
     heading: Testing
     type: oneColumnText
+  - showtag: music
+    title: Test
+    type: listing
 ---
 
