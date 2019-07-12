@@ -56,7 +56,9 @@
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     {% endif %}
     <!-- End Google Tag Manager (noscript) -->
+    {% include 'header/header' %}
     {{ content | safe }}
+    {% include 'footer/footer' %}
     
   </body>
 </html>
