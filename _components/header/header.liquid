@@ -1,0 +1,12 @@
+<header>
+  <div class="container collapse-all">
+    <div class="title"><a href="/">Chatlog</a></div>
+    <nav>
+      <ul>
+        {% for page in collections.pages %}
+         <li><a href="{{ page.url }}">{{ page.data.title }}</a></li>
+        {% endfor %}     
+      </ul>      
+    </nav>
+  </div>
+</header>

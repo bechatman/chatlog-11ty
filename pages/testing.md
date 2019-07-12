@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 permalink: '/{{ title | slug | urlEscape }}/index.html'
 title: Testing
 date: 2019-07-11T19:32:03.613Z
@@ -8,4 +8,3 @@ components:
     heading: Testing
     type: oneColumnText
 ---
-
