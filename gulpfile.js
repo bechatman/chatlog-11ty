@@ -2,7 +2,6 @@ const { parallel, watch, src, dest } = require('gulp')
 const sass = require('gulp-sass');
 const sassGlob = require('gulp-sass-glob');
 var autoprefixer = require('gulp-autoprefixer');
-const babel = require('gulp-babel');
 const webpackStream = require('webpack-stream');
 const webpack = require('webpack');
 const UglifyJsPlugin = require('uglifyjs-webpack-plugin');
