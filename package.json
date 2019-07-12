@@ -17,7 +17,7 @@
   },
   "scripts": {
     "start": "npx eleventy --serve",
-    "build": "npx eleventy",
+    "build": "gulp && npx eleventy",
     "debug": "DEBUG=Eleventy* npx eleventy"
   },
   "dependencies": {
