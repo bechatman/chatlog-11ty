@@ -1,7 +1,7 @@
-@import 'normalize.css';
 @import 'variables';
+@import 'normalize';
 // scss-lint:disable all
-@import '../components/**/*.scss';
+@import '../_components/**/*.scss';
 // scss-lint:enable all
 
 // ==============================

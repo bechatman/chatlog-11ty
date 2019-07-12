@@ -2,13 +2,21 @@
   <div class="container">
     <h2>{{ component.title }}</h2>
     <ol class="posts">
-      {% if component.showtag %}
-        {% assign posts = collection.posts | contains: 'tags', component.showtag %}
+      {% if false %}
+        {% assign posts = collections.all | contains: 'tags', 'music' %}
       {% else %}
-        {% assign posts = collection.posts %}
+        {% assign posts = collections.all | contains: 'layout', 'post' %}
       {% endif %}
       {% for article in posts %}
-          {% include './listingItem.liquid' %}
+        <li class="post"><a href="{{ article.url }}">
+          {% if article.data.shareImage %}
+          <img src="{{ article.data.shareImage }}" alt="" />
+          {% endif %}            
+          <h3 class="title">{{ article.data.title }}</h3>
+          <p class="description">{{ article.data.description }}</p>
+          <p class="post-date">{{ article.date }}</p>
+          </a>
+        </li>
       {% endfor %}
     </ol>
   </div>

@@ -8,7 +8,7 @@ components:
     heading: Testing
     type: oneColumnText
   - showtag: music
-    title: Test
+    title: Test Listing
     type: listing
 ---
 
