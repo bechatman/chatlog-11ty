@@ -1,0 +1,31 @@
+.hero {
+  background-color: $secondary;
+  text-align: center;
+
+  padding-top: 5em;
+
+  &.with-background {
+    background-size: cover;
+  }
+
+  h1,
+  p,
+  a {
+    color: white;
+  }
+
+  p {
+    align-items: middle;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+
+  .byline {
+    font-size: 1.3em;
+    font-weight: bold;
+    padding-bottom: 0.35em;
+    width: 100%;
+  }
+
+}

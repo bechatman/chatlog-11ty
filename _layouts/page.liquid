@@ -1,0 +1,7 @@
+---
+layout: base
+---
+{% for component in components %}
+  {% capture path %}../_components/{{component.type}}/{{component.type}}.liquid{% endcapture %}
+  {% include path %}
+{% endfor %}

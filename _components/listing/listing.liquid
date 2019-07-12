@@ -1,0 +1,15 @@
+<section class="listing dark">
+  <div class="container">
+    <h2>{{ component.title }}</h2>
+    <ol class="posts">
+      {% if component.showtag %}
+        {% assign posts = collection.posts | contains: 'tags', component.showtag %}
+      {% else %}
+        {% assign posts = collection.posts %}
+      {% endif %}
+      {% for article in posts %}
+          {% include './listingItem.liquid' %}
+      {% endfor %}
+    </ol>
+  </div>
+</section>

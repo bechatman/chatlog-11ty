@@ -1,6 +1,8 @@
 require('dotenv').config();
 const lfmAlbumArt = require('./_11tyExtensions/lfmAlbumArt');
 const urlEscape = require('./_11tyExtensions/urlEscape');
+const contains = require('./_11tyExtensions/contains');
+
 
 module.exports = (config) => {  
   // Ignore files and pass through
@@ -32,6 +34,7 @@ module.exports = (config) => {
   config.setLibrary('md', md);
   config.addFilter('markdown', value => md.render(value))
   config.addFilter('urlEscape', data => urlEscape(data))
+  config.addFilter('contains', (data, arg1, arg2) => contains(data, arg1, arg2))
 
   // Set Shortcodes
 
