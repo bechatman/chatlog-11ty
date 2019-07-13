@@ -1,17 +1,19 @@
-<section class="listing dark">
-  <div class="container">
+<section class="listing">
+  <div class="container collapse-top">
     <h2>{{ component.title }}</h2>
     <ol class="posts">
       {% if component.showtag %}
-        {% assign posts = collections.all | contains: 'tags', component.showtag %}
+        {% assign posts = collections.all | contains: 'tags', component.showtag | reverse %}
       {% else %}
-        {% assign posts = collections.all | contains: 'layout', 'post' %}
+        {% assign posts = collections.all | contains: 'layout', 'post' | reverse %}
       {% endif %}
       {% for article in posts %}
         <li class="post"><a href="{{ article.url }}">
+          <div class="image">
           {% if article.data.shareImage %}
           <img src="{{ article.data.shareImage }}" alt="" />
-          {% endif %}            
+          {% endif %}
+          </div>            
           <h3 class="title">{{ article.data.title }}</h3>
           <p class="description">{{ article.data.description }}</p>
           <p class="post-date">{{ article.date | apDate }}</p>

@@ -55,12 +55,12 @@ const js = (cb) => {
 const dev = cb => {
   watch([
     'assets/style.scss', 
-    '_components/**/*.scss', 
-    '_components/**/*.js'
+    '_sass/*.scss', 
+    '_scripts/*.js'
   ],
   parallel(css,js))
   cb()
 };
 
-exports.dev = dev;
+exports.watch = dev;
 exports.default = parallel(css, js);

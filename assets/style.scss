@@ -57,7 +57,12 @@ main {
 }
 
 .blogPost .container {
-  max-width: 60em;
+  max-width: $container-narrow;
+
+  p, li {
+    font-size: 1.5em;
+  }
+
 }
 
 .has-albums .blogPost h2,

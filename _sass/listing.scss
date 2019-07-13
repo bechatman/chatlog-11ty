@@ -1,13 +1,14 @@
-.listing,
-.article-collection {
-  background-color: $primary;
-  & .container > h2,
-  & .container > h3,
-  & .container > h4,
-  & .container > p,
-  & .container > li,
-  & .container > a {
-    color: white;
+.listing {
+  .dark {
+    background-color: $primary;
+    & .container > h2,
+    & .container > h3,
+    & .container > h4,
+    & .container > p,
+    & .container > li,
+    & .container > a {
+      color: white;
+    }
   }
 
   .posts {
@@ -29,20 +30,27 @@
     }
 
     .post {
-      background-color: white;
-      border-radius: 5px;
-      box-shadow: 1px 1px 0px #111;
-      font-size: 1em;
-      overflow: hidden;
       position: relative;
-
+      
       a {
         align-items: flex-start;
+        background-color: white;
+        border-radius: 5px;
+        box-shadow: 0 0 5px $secondary-background;
         display: flex;
         flex-direction: column;
+        font-size: 1rem;
+        height: 100%;
         justify-content: flex-start;
         text-decoration: none;
+        transition: box-shadow .54s ease;
+        overflow: hidden;
         color: black;
+
+        &:hover,
+        &:focus {
+          box-shadow: 0 0 10px $secondary;
+        }
       }
 
       h3.title {
@@ -50,11 +58,25 @@
         margin: 3rem 0 0 0;
       }
 
-      img + h3.title {
+      .image {
+        background-color: $secondary-background;
+        width: 100%;
+        padding-bottom: 52.3333333%;
+        position: relative;
+
+        img {
+          left: 0;
+          position: absolute;
+          top: 0;
+        }
+      }
+
+      .image + h3.title {
         margin-top: 1rem;
       }
 
       .description {
+        flex: 1;
         padding: 0.5rem 1.5rem;
         margin-top: 0;
       }

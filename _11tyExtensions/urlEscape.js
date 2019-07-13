@@ -17,8 +17,6 @@ module.exports = (data) => {
   
   // If the string ends in a dash, remove it
   const slug = /-$/.test(singleDashes) ? singleDashes.slice(0, -1) : singleDashes;
-
-  console.log(data, slug)
   
   return slug
 }
