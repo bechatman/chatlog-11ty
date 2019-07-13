@@ -2,8 +2,10 @@
 layout: page
 permalink: '/{{ title | slug | urlEscape }}/index.html'
 title: Testing
+description: This is a description
+tags:
+  - menu
 date: 2019-07-11T19:32:03.613Z
-description: "This is a description"
 components:
   - content: This is a test
     heading: Testing
