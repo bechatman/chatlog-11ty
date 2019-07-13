@@ -14,7 +14,7 @@ components:
       write things before I try to do too much design work. There's only so much
       motivation to go around.
     heading: About the Chatlog
-    hideHeading: true
+    hideHeading: false
     type: oneColumnText
   - title: Posts
     type: listing
