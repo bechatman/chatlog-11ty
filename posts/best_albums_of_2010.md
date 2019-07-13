@@ -6,7 +6,7 @@ description: >-
   While people worry about the gig economy's negative impact on worker pay, the
   business world has long been trying to reduce transaction costs with their own
   form of gig workers. And the results have been ... mixed.
-date: 2019-07-10T18:59:26.557Z
+date: 2011-01-03T15:00:26.557Z
 shareImage: /assets/img/2010.jpg
 tags:
   - music
