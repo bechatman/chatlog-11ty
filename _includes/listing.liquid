@@ -2,7 +2,7 @@
   <div class="container">
     <h2>{{ component.title }}</h2>
     <ol class="posts">
-      {% if true %}
+      {% if component.showtag %}
         {% assign posts = collections.all | contains: 'tags', component.showtag %}
       {% else %}
         {% assign posts = collections.all | contains: 'layout', 'post' %}
