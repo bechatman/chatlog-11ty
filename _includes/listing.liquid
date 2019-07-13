@@ -2,8 +2,8 @@
   <div class="container">
     <h2>{{ component.title }}</h2>
     <ol class="posts">
-      {% if false %}
-        {% assign posts = collections.all | contains: 'tags', 'music' %}
+      {% if true %}
+        {% assign posts = collections.all | contains: 'tags', component.showtag %}
       {% else %}
         {% assign posts = collections.all | contains: 'layout', 'post' %}
       {% endif %}
@@ -14,7 +14,7 @@
           {% endif %}            
           <h3 class="title">{{ article.data.title }}</h3>
           <p class="description">{{ article.data.description }}</p>
-          <p class="post-date">{{ article.date }}</p>
+          <p class="post-date">{{ article.date | apDate }}</p>
           </a>
         </li>
       {% endfor %}

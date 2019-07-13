@@ -1,12 +1,14 @@
 <header>
   <div class="container collapse-all">
     <div class="title"><a href="/">Chatlog</a></div>
+    {% if collection.menu %}
     <nav>
       <ul>
-        {% for page in collections.pages %}
+        {% for page in collections.menu %}
          <li><a href="{{ page.url }}">{{ page.data.title }}</a></li>
         {% endfor %}     
-      </ul>      
+      </ul>
     </nav>
+    {% endif %}
   </div>
 </header>

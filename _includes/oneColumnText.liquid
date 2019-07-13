@@ -1,6 +1,9 @@
 <section class="oneColumn{% if component.backgroundColor %} bg-{{component.backgroundColor}}{% endif %}">
-<h2>Test</h2>
   <div class="container">
+    {% if component.hideHeading %}
+    {% else %}
+    <h2>{{ component.heading }}</h2>
+    {% endif %}
     {% if component.content %}
       {{ component.content | markdown | safe }}
     {% endif %}

@@ -2,9 +2,7 @@
   <div class="container">
     <h1>{{ title }}</h1>
     {% if layout == 'post' %}
-    <p><span class="byline">By {{ author }}</span> <span class="hero-date">{{ date }}</span></p>
-    {% else %}
-    <p>{{ description }}</p>
+\    <p><span class="byline">By {{ author }}</span> <span class="hero-date">{{ date | apDate }}</span></p>
     {% endif %}
   </div>
 </div>

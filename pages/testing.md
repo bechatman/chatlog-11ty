@@ -7,6 +7,7 @@ description: "This is a description"
 components:
   - content: This is a test
     heading: Testing
+    hideHeading: true
     type: oneColumnText
   - showtag: music
     title: Test Listing
