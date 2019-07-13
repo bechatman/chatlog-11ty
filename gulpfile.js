@@ -21,7 +21,7 @@ const css = (cb) => {
 }
 
 const js = (cb) => {
-  src('_components/**/*.js')
+  src('_scripts/*.js')
   .pipe(webpackStream({
     devtool: 'source-map',
     mode: 'production',

@@ -1,0 +1,10 @@
+<div class="hero" style="{% if shareImage %}background: linear-gradient(rgba(50,50,50,0.3), rgba(50,50,50,0.6)), url('{{ shareImage }}') no-repeat; background-size: cover; background-position: 0 60%;{% endif %}">
+  <div class="container">
+    <h1>{{ title }}</h1>
+    {% if layout == 'post' %}
+    <p><span class="byline">By {{ author }}</span> <span class="hero-date">{{ date }}</span></p>
+    {% else %}
+    <p>{{ description }}</p>
+    {% endif %}
+  </div>
+</div>

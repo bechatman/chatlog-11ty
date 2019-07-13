@@ -20,7 +20,7 @@
     {% endif %}
     <meta property="og:type" content="website" />
     <!-- Stylesheet -->
-    <link rel="stylesheet" href="/assets/style.css">
+    <link rel="stylesheet" href="/assets/style.css?updated={{ site.styleUpdate }}">
     <!-- Favicons -->
     <link rel="shortcut icon" href="/assets/img/favicon.ico">
     <link rel="icon" type="image/png" href="/assets/img/favicon-16x16.png" sizes="16x16">
@@ -41,7 +41,7 @@
     <meta name="msapplication-TileImage" content="/assets/img/ms-icon-144x144.png">
     <meta name="theme-color" content="#ffffff">
     <!-- Google Tag Manager -->
-    {% if env %}
+    {% if site.env %}
     <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
     new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
     j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
@@ -52,14 +52,16 @@
   </head>
   <body>
     <!-- Google Tag Manager (noscript) -->
-    {% if env %}<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NQ8P5HF"
+    {% if site.env %}<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NQ8P5HF"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     {% endif %}
     <!-- End Google Tag Manager (noscript) -->
     {% include 'header' %}
+    {% include 'hero' %}
     <main>
     {{ content | safe }}
     </main>
     {% include 'footer' %}
+    <script src="/assets/scripts.js?updated={{ site.scriptUpdate }}" defer></script>
   </body>
 </html>

@@ -43,7 +43,7 @@ module.exports = (config) => {
   return {
     // Set Layout Directory
     dir: {
-      includes: '_components',
+      includes: '_includes',
       layouts: '_layouts'
     }
   }
