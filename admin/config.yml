@@ -35,6 +35,10 @@ collections:
         widget: "boolean"
         required: false
         default: false
+      - label: "Share Image"
+        name: "shareImage"
+        required: false
+        widget: "image"
       - label: "Tags"
         name: "tags"
         widget: "list"
