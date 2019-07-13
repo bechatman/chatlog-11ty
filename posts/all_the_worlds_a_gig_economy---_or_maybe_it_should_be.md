@@ -1,0 +1,44 @@
+---
+layout: post
+permalink: '/{{ title | slug | urlEscape }}/index.html'
+title: All the world's a gig economy... or maybe it should be
+description: >-
+  While people worry about the gig economy's negative impact on worker pay, the
+  business world has long been trying to reduce transaction costs with their own
+  form of gig workers. And the results have been ... mixed.
+date: 2019-07-10T18:59:26.557Z
+tags:
+  - politics
+author: Brian Chatman
+---
+Have you ever thought about how many business deals are strictly for the purpose of accessing labor without the investment or expertise required to actually hire employees?
+
+There are agencies that provide direct services (marketing, PR, web design ... even recruitment), contractors (who vet employees and act as the employer for benefits and HR purposes), freelance collectives (who do some sales but mainly vet potential freelancers and provide some HR services ... also for a small overhead), and just straight-up freelancers/independent contractors and consultants.
+
+While I am sure actually working for a company is still the norm, there are just so many ways that you can be working for a company that is not really your employer. It makes sense because the highest risk is actually hiring someone, be it as an employee or an independent freelancer. You take on the burden of vetting them and evaluating their performance, and doing that multiple times has massive opportunity costs. 
+
+This may just be a result of different business needs and people looking to fill those needs, but I do wonder if it is actually a result of the over-saturation of college degrees and the collapse of unions. 
+
+So many people have degrees that the degree itself cannot act as a credential. Certifications exist in some fields, but are only formally recognized and accepted in heavily regulated industries. Likewise, union membership in some cases implied either a level of skill or expertise (though, it was a major fault where it didn't), but carried requirements that workers be paid what was negotiated to be fair.
+
+Without these heuristics to determine who to hire, and with the hatred some business owners had at having to accept requirements of union employment, they turn to these other staffing models where they pay more and less of that money goes to the actual worker. It creates more jobs, but so would paying people more and letting them participate in the economy. 
+
+The going rate for contractors used in the federal government is between 80 and 120 percent overhead. Meaning that, to avoid triggering staffing limits or employment rules, they are paying as much as $110,000 per year for a worker that only receives $50,000. Rates are similar for contractors in the private sector as well. Contracting with a marketing agency could cost $110 to $500 per hour based on the project, but the individual workers see much less. Even with three people and a project manager working on a task at $30 per hour each, the agency has to collect well over double the rate. In both of these cases, there is likely enough work to warrant keeping the same people on full time, and you are paying enough to do it. 
+
+Now, obviously I can't make an apples-to-apples comparison because the cost of an actual employee is hidden due to some very arcane legal maneuvering in the tax code and the perks employers provide. Still, that $50,000-per-year employee only costs about $73,000 when you take into account payroll taxes, a 6% retirement match, $800 per month in health coverage and a 5 percent buffer for other benefits — far less than $110,000.
+
+It is hard to say this is something that needs to be fixed. In many cases, this is just the market adapting to the needs of businesses. There are abuses, though, in that [contract employees in federal positions](https://www.contractormisconduct.org/about-fcmd) or even [major companies like Facebook](https://www.theverge.com/2019/6/19/18681845/facebook-moderator-interviews-video-trauma-ptsd-cognizant-tampa) are often subjected to much harsher work environments or conduct expectations than their full-time co-workers. What this does do, however, is highlight other flaws in the market. 
+
+The most obvious is health care. If your health care is tied to your employer, then losing your job means an expected spike in costs, be it through COBRA or a new plan. It also forces you to work more than may be necessary. To qualify for insurance at most companies, you have to work 29 hours per week. Putting aside the people who are only given 28 hours to avoid triggering that requirement, it sometimes forces you into a full-time job when you would be better off part time. Many people with families would love to have just 4-day weeks or 6-hour days and they would be willing to take the pay cut, but may not want to leave their company or lose their insurance.
+
+The next big obstacle is a lack of real credentials. There needs to be a way in every field to say you meet minimum requirements or that you have achieved certain levels of proficiency without a hiring processes that puts you through a bunch of tests with no guarantee you won't have to do it all again for another prospective employer. Some people would perform great in jobs and perform poorly on tests, but some of the tests companies create are patently ridiculous, resembling either spec work or even hazing.
+
+The obstacle that I find most frustrating, though, is job hunting. Applying for jobs is, in itself, a full-time job. You have to have flexibility to take meetings, sometimes with little notice. You have to fill out forms and answer pre-screening questionaires. Travel is sometimes required. You will do this 20, 30, 40 times before you find a job, though, because applying gives you no information about whether you are being considered, and you can't afford to wait and see what happens. Some employers tell you your application status, but some are just collecting resumes and won't respond at all. Others have too many applicants and only contact the ones they are interviewing. Sometimes postings are targeted at a specific person and only posted as a legal requirement. Some postings are for jobs that don't exist because contractors are bidding for jobs, and they are looking for people to put forward. That last point may require you to apply for the same job three or four times with different contractors for the possibility of getting it. 
+
+Job postings themselves are also a major issue, in that they describe the hiring manager's platonic ideal of a worker, not the person who is likely to get the job. I've never met someone who knows every programming language, has the writing skills of a journalist and is also a medical doctor with a PhD in another field, but that seems to be way many postings are written, even when the perfect candidate only has a fraction of the "required" experience. The common saying is that it is easier to find a job when you have one, which is true to a point, but it is also much harder to put in the work to find that job, and that gets people trapped in dead-end positions. This is where recruiters and job placement services are actually a great improvement over the job posting approach, but that is contributing to the overhead of hiring workers. 
+
+Though it has been a tool to under pay people to date, maybe the gig economy is the real answer to all of this. Using technology to overcome these transaction costs, we might be able to create a much more resilient system. We are seeing hints of this with products that match candidates to employers (Indeed Prime or ZipRecruiter, for example) and the freelance collectives mentioned at the top of this post, but maybe it needs to go further.
+
+Imagine a world where we are all independent contractors. You either pay for your own health insurance, or we finally recognize that health care is a human right and handle it through taxes. You have a set of services you can go to for your profession to get credentials and see a pay range possible at your skill level, then you set your rate and work schedule. You are then matched with companies and can choose to work for one who has a lot of need or several who have lesser needs. If you lose your position, something else is sent your way. This type of service is starting to materialize, but it is very early days, and so much of the hiring process is mired in outdated legal CYA from both government regulation and business self-regulation.
+
+Seeing all the ways markets have responded to employment needs shows how businesses can naturally adapt to regulation, but we need regulation that can adapt to eliminate the systems that harm workers so there is room for the good ideas to flourish. 
