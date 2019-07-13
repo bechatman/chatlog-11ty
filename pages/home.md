@@ -11,7 +11,7 @@ components:
       Seems like a pretty barebones site? I'm just waiting to see if I actually
       write things before I try to do too much design work. There's only so much
       motivation to go around.
-    heading: Introduction
+    heading: About the Chatlog
     hideHeading: true
     type: oneColumnText
 ---
