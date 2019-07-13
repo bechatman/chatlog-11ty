@@ -87,7 +87,7 @@ collections:
               - label: "Show Tag"
                 name: "showtag"
                 widget: "string"
-                required: false;
+                required: false
 
   - name: "posts"
     label: "Post"
