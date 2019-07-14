@@ -7,6 +7,7 @@ description: >-
   business world has long been trying to reduce transaction costs with their own
   form of gig workers. And the results have been ... mixed.
 date: 2019-07-10T18:59:26.557Z
+shareImage: /assets/img/sf-skyline.jpg
 tags:
   - politics
 author: Brian Chatman
