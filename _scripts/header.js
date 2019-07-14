@@ -1,6 +1,6 @@
 let heroLocation;
 function scrolled() {
-  const title = document.querySelector('.title');
+  const title = document.querySelector('body > header');
 
   if (window.pageYOffset > heroLocation) {
     title.classList.add('scrolled');

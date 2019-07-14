@@ -18,7 +18,7 @@ Critics have been releasing their top albums lists over the past month and, bein
 
 It is easy for a critic. The job requires you to talk about what is new, not about what you play on your iPod. Never mind that the best album of 2008 may be on the top of the trash heap by the time 2009's list hits the shelves.
 
-## The Top ~Five~ 10 Albums of 2009
+## The Top ~~Five~~ 10 Albums of 2009
 
 I spent a week coming home after work and looking through a playlist of every album I owned that came out in 2009. By Wednesday, I had it together:
 

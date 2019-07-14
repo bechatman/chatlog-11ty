@@ -30,10 +30,11 @@
 }
 
 header {
-  background: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.6));
+  background-color: rgba(white, 0.75);
   position: fixed;
   width: 100%;
   z-index: 1000;
+  transition: background-color .18s ease;
 
   .title {
     font-family: $display;
@@ -43,10 +44,10 @@ header {
     a {
       align-items: flex-start;
       display: block;
-      color: white;
+      color: black;
       justify-content: flex-start;
       text-decoration: none;
-      text-shadow: 3px 3px 3px #555;
+      // text-shadow: 3px 3px 3px $secondary;
       transition: transform 0.36s ease;
       transform: scale3d(1, 1, 1);
       transform-origin: left center;
@@ -54,6 +55,7 @@ header {
       span {
         display: inline-block;
         position: relative;
+        text-shadow: 0 0 2px white;
         @include animation-remove;
 
         &::after {
@@ -104,47 +106,53 @@ header {
       }
     }
 
-    &.scrolled a {
-      transform: scale3d(0.75, 0.75, 0.75);
+  }
 
-      span:not(:first-of-type) {
-        transition: transform 0.19s ease, opacity 0.19s ease 0.08s;
-        opacity: 0;
-
-        &:nth-child(2) {
-          transition: transform 0.19s ease #{0.06 * 5}s,
-            opacity 0.19s ease #{0.08 * 6}s;
+  &.scrolled {
+    background-color: rgba($secondary-background, .2);
+    .title {
+       a {
+        transform: scale3d(0.75, 0.75, 0.75);
+  
+        span:not(:first-of-type) {
+          transition: transform 0.19s ease, opacity 0.19s ease 0.08s;
+          opacity: 0;
+  
+          &:nth-child(2) {
+            transition: transform 0.19s ease #{0.06 * 5}s,
+              opacity 0.19s ease #{0.08 * 6}s;
+          }
+          &:nth-child(3) {
+            transform: translateY(-0.05em);
+            transition: transform 0.19s ease #{0.06 * 4}s,
+              opacity 0.19s ease #{0.08 * 5}s;
+          }
+          &:nth-child(4) {
+            transform: translateY(-0.1em);
+            transition: transform 0.19s ease #{0.06 * 3}s,
+              opacity 0.19s ease #{0.08 * 4}s;
+          }
+          &:nth-child(5) {
+            transform: translateY(-0.15em);
+            transition: transform 0.19s ease #{0.06 * 2}s,
+              opacity 0.19s ease #{0.08 * 3}s;
+          }
+          &:nth-child(6) {
+            transform: translateY(-0.2em);
+            transition: transform 0.19s ease #{0.06 * 1}s,
+              opacity 0.19s ease #{0.08 * 2}s;
+          }
+          &:nth-child(7) {
+            transform: translateY(-0.25em);
+            transition: transform 0.19s ease #{0.06 * 0}s,
+              opacity 0.19s ease #{0.08 * 1}s;
+          }
         }
-        &:nth-child(3) {
-          transform: translateY(-0.05em);
-          transition: transform 0.19s ease #{0.06 * 4}s,
-            opacity 0.19s ease #{0.08 * 5}s;
+  
+        &:hover span {
+          @include animation-remove;
+          transform: translateY(0) !important;
         }
-        &:nth-child(4) {
-          transform: translateY(-0.1em);
-          transition: transform 0.19s ease #{0.06 * 3}s,
-            opacity 0.19s ease #{0.08 * 4}s;
-        }
-        &:nth-child(5) {
-          transform: translateY(-0.15em);
-          transition: transform 0.19s ease #{0.06 * 2}s,
-            opacity 0.19s ease #{0.08 * 3}s;
-        }
-        &:nth-child(6) {
-          transform: translateY(-0.2em);
-          transition: transform 0.19s ease #{0.06 * 1}s,
-            opacity 0.19s ease #{0.08 * 2}s;
-        }
-        &:nth-child(7) {
-          transform: translateY(-0.25em);
-          transition: transform 0.19s ease #{0.06 * 0}s,
-            opacity 0.19s ease #{0.08 * 1}s;
-        }
-      }
-
-      &:hover span {
-        @include animation-remove;
-        transform: translateY(0) !important;
       }
     }
   }
