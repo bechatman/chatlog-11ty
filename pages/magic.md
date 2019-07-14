@@ -7,6 +7,8 @@ description: >-
   really matter. 
 showDescription: true
 shareImage: /assets/img/mox.jpg
+tags:
+  - menu
 date: 2019-07-14T02:22:19.979Z
 components:
   - showtag: magic
