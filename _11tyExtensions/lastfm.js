@@ -1,8 +1,8 @@
 /** 
  * Wrapper function implement Axios request to Last.fm API and return data.
- * @param user string - Command from the Last.fm API: https://www.last.fm/api/
- * @param options object - Additional parameters from the Last.fm API command required to return correct data. See Last.fm docs.
- * @returns requestURL string - Completed URL to retrieve data from Last.fm API.
+ * @param {string} user - Command from the Last.fm API: https://www.last.fm/api/
+ * @param {object} options - Additional parameters from the Last.fm API command required to return correct data. See Last.fm docs.
+ * @returns {string} requestURL - Completed URL to retrieve data from Last.fm API.
 */
 module.exports = (command, options) => {
   const user = process.env.LASTFM_USER;
