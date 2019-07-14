@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: '/{{ title | slug | urlEscape }}/index.html'
+permalink: '/path-to-exile/index.html'
 title: 'Path to Exile: Impressions of Magic the Gathering after a 20 year absence'
 description: >-
   Can the game that captured my interest in seventh grade still be as exciting
