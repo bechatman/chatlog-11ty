@@ -14,17 +14,11 @@ author: Brian Chatman
 ---
 Have you ever thought about how many business deals are strictly for the purpose of accessing labor without the investment or expertise required to actually hire employees?
 
-Though as of 2015 only [10 percent of the American workforce could be considered self-employed](https://www.pewsocialtrends.org/2015/10/22/three-in-ten-u-s-jobs-are-held-by-the-self-employed-and-the-workers-they-hire/ "Pew Research, 2015") (a number that has been steadily declining for years), a 2018 NPR/Marist poll showed that nearly 20 percent of employees are contract workers, with many of those considered part of an alternative work arrangement (part-time or freelance).
+A 2018 NPR/Marist poll showed that nearly [20 percent of employees are contract workers], but not all of those positions are created equal. Where a freelancer may pad their rates to handle volatility and have several clients, contractors often get the same pay rates as their full-time counterparts, but without the access to benefits.
 
-In some ways, it makes sense. There is a lot of risk in actually hiring someone, be it as an employee or an independent freelancer. You take on the burden of vetting them and evaluating their performance, and doing that multiple times has massive opportunity costs. It isn't as simple as looking to see if someone has a degree in the right field when everyone has a bachelor's degree and, in many cases, have work experience outside of their area of study. While specialized certifications exist in some fields, they are only formally recognized and accepted in heavily regulated industries.
+It would be easy to write this all off as companies not wanting to pay benefits, but wanting the flexibility to temporarily bring on workers when needed and shed them later is a frequent need in business. But there is a cost to this flexibility. 
 
-Enter contractor agencies.
-
-These companies reduce the opportunity cost of having specialized staff vetting applicants. Government and large firms often use these services to provide flexibility if they need to staff up (or down) quickly or even to see if a position is really needed. 
-
-There is a cost to this flexibility. The going rate for contractors used in the federal government is between 80 and 120 percent overhead. Meaning that, to avoid triggering staffing limits or employment rules, they are paying as much as $110,000 per year for a worker that only receives $50,000. Rates are similar for contractors in the private sector as well. 
-
-Not included in this picture, though, are traditional service agencies. Marketing, PR, web design, and even recruiting or HR are a mainstay of American business, but they are essentially the same kind of seasonal, on-demand labor that can be hired and fired as needed. 
+In federal agencies, contractors are the norm. If your funding is a political football, you don't want to trigger all of the complex rules around layoffs in government when you can just use a contractor. The going rate for contractors used in the federal government is between 80 and 120 percent overhead. So, they are paying as much as $110,000 per year for a worker that only receives $50,000. Rates are similar for contractors in the private sector as well. 
 
 Contracting with a marketing agency could cost $110 to $500 per hour based on the project, but the individual workers see much less. Even with three people and a project manager working on a task at $30 per hour each, the agency has to collect well over double the rate. In both of these cases, there is likely enough work to warrant keeping the same people on full time, and you are paying enough to do it. 
 
