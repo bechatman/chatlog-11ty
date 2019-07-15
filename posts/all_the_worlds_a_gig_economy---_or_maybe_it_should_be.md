@@ -14,9 +14,13 @@ author: Brian Chatman
 ---
 Have you ever thought about how many business deals are strictly for the purpose of accessing labor without the investment or expertise required to actually hire employees?
 
-There are agencies that provide direct services (marketing, PR, web design ... even recruitment), contractors (who vet employees and act as the employer for benefits and HR purposes), freelance collectives (who do some sales but mainly vet potential freelancers and provide some HR services ... also for a small overhead), and just straight-up freelancers/independent contractors and consultants.
+Though as of 2015 only [10 percent of the American workforce could be considered self-employed](https://www.pewsocialtrends.org/2015/10/22/three-in-ten-u-s-jobs-are-held-by-the-self-employed-and-the-workers-they-hire/ "Pew Research, 2015") (a number that has been steadily declining for years), a 2018 NPR/Marist poll showed that nearly 20 percent of employees are contract workers, with many of those considered part of an alternative work arrangement (part-time or freelance).
 
-Though as of 2015, according to Pew Research, [90 percent of U.S. workers are employed by someone](https://www.pewsocialtrends.org/2015/10/22/three-in-ten-u-s-jobs-are-held-by-the-self-employed-and-the-workers-they-hire/ "Pew Research, 2015"), there are just so many ways that you can be working for a company that is not really your employer. It makes sense because the highest risk is actually hiring someone, be it as an employee or an independent freelancer. You take on the burden of vetting them and evaluating their performance, and doing that multiple times has massive opportunity costs. 
+Did the numbers just go up wildly? More likely these companies went to contractor firms who vet employees and act as the employer for benefits and HR purposes. These agencies are everyhwere, providing temporary and, sometimes, near permanent placements. Government and large firms often use these services to provide flexibility if they need to staff up or down quickly. 
+
+Not included in this picture, though are traditional service agencies. Marketing, PR, web design, and even the contractor agencies recruiting and providing and HR are a mainstay of American business, but they are essentially the same kind of seasonal, on-demand labor that can be hired and fired as needed. 
+
+In some ways, it makes sense. The highest risk is actually hiring someone, be it as an employee or an independent freelancer. You take on the burden of vetting them and evaluating their performance, and doing that multiple times has massive opportunity costs. 
 
 This may just be a result of different business needs and people looking to fill those needs, but I do wonder if it is actually a result of the over-saturation of college degrees and the collapse of unions. 
 
