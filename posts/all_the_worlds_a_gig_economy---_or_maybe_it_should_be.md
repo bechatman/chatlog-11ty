@@ -54,7 +54,7 @@ The elephant in the room, though, is that companies really don't need someone 40
 
 Though it has been a tool to under pay people to date, maybe the gig economy is the real answer to all of this. Using technology to overcome these transaction costs, we might be able to create a much more resilient system. 
 
-We are seeing hints of this with products that match candidates to employers (Indeed Prime or ZipRecruiter, for example). Sites like [Gun.io](https://www.gun.io/), [X-Team](https://x-team.com/) and others heavy vet candidates and then connect them up to clients like a contractor agency, but the employees charge freelance rates. They just have the backing of a company.
+We are seeing hints of this with products that match candidates to employers (Indeed Prime or ZipRecruiter, for example). Sites like [Gun.io](https://www.gun.io/), [X-Team](https://x-team.com/) and others heavily vet candidates and then connect them up to clients like a contractor agency, but the employees charge freelance rates. They just have the backing of a company.
 
 Imagine the next step of this evolution.
 
