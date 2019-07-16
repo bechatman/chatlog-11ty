@@ -14,7 +14,7 @@ author: Brian Chatman
 ---
 Have you ever thought about how many business deals are strictly for the purpose of accessing labor without the investment or expertise required to actually hire employees?
 
-A 2018 NPR/Marist poll showed that nearly [20 percent of employees are contract workers], but not all of those positions are created equal. Where a freelancer may pad their rates to handle volatility and have several clients, contractors often get the same pay rates as their full-time counterparts, but without the access to benefits.
+A 2018 NPR/Marist poll showed that nearly [20 percent of employees are contract workers](https://www.npr.org/2018/01/22/578825135/rise-of-the-contract-workers-work-is-different-now), but not all of those positions are created equal. Where a freelancer may pad their rates to handle volatility and have several clients, contractors often get the same pay rates as their full-time counterparts, but without the access to benefits.
 
 Contract work is often lumped into the same sort of business criticism we hear about Uber, Lyft, Postmates and the rest of the gig economy: Companies don't want to pay their workers properly, so they use loopholes to avoid treating them like employees. While I am sympathetic to this argument, the reality is that flexibility costs much more than just hiring people. There is a bigger reason this is happening, and the gig economy may be the solution, not the cause. 
 
