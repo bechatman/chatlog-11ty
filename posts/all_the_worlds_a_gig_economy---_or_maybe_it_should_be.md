@@ -22,7 +22,7 @@ Contract work is often lumped into the same sort of business criticism we hear a
 
 Due to the arcane tax code and the variety of perks employers provide, it is hard to say what an employee costs across the board, but we can make some educated guesses. A $50,000-per-year employee costs about $69,111 when you take into account payroll taxes, a 6% retirement match, [$5,711 in health coverage](https://www.peoplekeep.com/blog/how-much-does-group-health-insurance-cost) and a 5% buffer for other benefits — far less than what is paid to contractor agencies.
 
-Without pouring through contracts and just going by what I've seen, federal contractors rates have between 80% and 120% overhead ([though some federal employees have claimed as high at 160%](https://forum.federalsoup.com/default.aspx?g=posts&t=61874#post714185)), meaning a $50,000 employee costs as much as $110,000 a year. Some of that does go to health care since these are long-term contractors working full time, but much of that goes to the company for administering staff or just profit.
+Without pouring through contracts and just going by what I've seen, federal contractor rates are between 80% and 120% overhead ([though some federal employees have claimed as high at 160%](https://forum.federalsoup.com/default.aspx?g=posts&t=61874#post714185)), meaning a $50,000 employee costs as much as $110,000 a year. Some of that does go to health care since these are long-term contractors working full time, but much of that goes to the company for administering staff or just profit.
 
 ## The hidden contractor
 
