@@ -59,9 +59,9 @@ We are seeing hints of this with products that match candidates to employers (In
 Imagine the next step of this evolution.
 
 1. You either pay for your own health insurance, or we finally recognize that health care is a human right and handle it through taxes. 
-2. You have a set of services you can go to for your profession to get credentials and see a pay range possible at your skill level, then you set your rate and work schedule. You are then matched with companies and can choose to work for one who has a lot of need or several who have lesser needs. 
+2. You have a set of services you can go to for your profession to get credentials and see a pay range possible at your skill level, then you set your rate and work schedule. You are then matched with companies, and you can choose to work for one that has a lot of need or several that have lesser needs. 
 3. If you lose your position, something else is sent your way, almost like in an agency today. 
 
-This is one of many directions this could go, and it ignores how so much of the hiring process is mired in outdated legal CYA from both government regulation and business self-regulation.
+This is one of many directions employment could go, and it ignores how so much of the hiring process is mired in outdated legal CYA from both government regulation and business self-regulation.
 
 Seeing all the ways markets have responded to employment needs shows how businesses can naturally adapt to regulation, but we need regulation that can adapt to eliminate the systems that harm workers so there is room for the good ideas to flourish.
