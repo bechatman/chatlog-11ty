@@ -22,11 +22,11 @@ Contract work is often lumped into the same sort of business criticism we hear a
 
 Due to the arcane tax code and the variety of perks employers provide, it is hard to say what an employee costs across the board, but we can make some educated guesses. A $50,000-per-year employee costs about $69,111 when you take into account payroll taxes, a 6% retirement match, [$5,711 in health coverage](https://www.peoplekeep.com/blog/how-much-does-group-health-insurance-cost) and a 5% buffer for other benefits — far less than what is paid to contractor agencies.
 
-With a wife at the Centers for Disease Control and Prevention, I hear a lot about federal contractors, and overhead rates are openly discussed. Every contractor I've heard about so far have 80 and 120 percent overhead, meaning a $50,000 employee costs as much as $110,000 a year. Some of that does go to health care since these are long-term contractors working full time, but much of that goes to the company for administering staff or just profit.
+Without pouring through contracts and just going by what I've seen, federal contractors rates have between 80% and 120% overhead ([though some federal employees have claimed as high at 160%](https://forum.federalsoup.com/default.aspx?g=posts&t=61874#post714185)), meaning a $50,000 employee costs as much as $110,000 a year. Some of that does go to health care since these are long-term contractors working full time, but much of that goes to the company for administering staff or just profit.
 
 ## The hidden contractor
 
-Forgotten in the discussion ofcontract work is the agency. 
+Forgotten in the discussion of contract work is the agency. 
 
 Marketing, PR, web design, advertising ... you name it, the priniciple is the same. Hiring an agency is the worker friendly version of the contractor. You get skilled people quickly, and you can fire them easily. Often the teams are much more experienced than anyone they could bring on staff, and they have better team cohesion with each other, but they are loyal to the agency and not the company they do work for, unlike contractors. Having a sales team constantly working to bring in new contracts let's people stay with agencies for years ... most of the time. 
 
