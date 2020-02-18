@@ -4,7 +4,7 @@ permalink: '/{{ title | slug | urlEscape }}/index.html'
 title: 'Album Pick: Quiet Company, ''On Corners & Shapes'''
 description: >-
   Quiet Company's third EP in their divorce trilogy takes the band in new sonic
-  directions while still retaining the core of what makes them great. 
+  directions while still retaining the core of what makes them great.
 date: 2019-04-01T11:30:00.000Z
 shareImage: /assets/img/quiet-company.jpg
 tags:
