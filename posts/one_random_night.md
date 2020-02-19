@@ -9,9 +9,7 @@ description: >-
 date: 2020-02-13T14:25:15.360Z
 shareImage: /assets/img/EBADFD52-1DAF-434B-8A34-4F4A16D56118_1_201_a.jpeg
 tags:
-  - widow
-  - loss
-  - love
+  - life and loss
 author: Sarah Schmedes Chatman
 ---
 I never thought in a million years I would ever have to utter the words, “I’m a widow.” Well, maybe when I was 80 or 90 years old, but never at the age of 36. I never thought I’d be a single mom, especially to a one year old. I had married the love of my life, my best friend. We had to wait awhile until we met each other, but he was worth the wait. We were 31 when we met.
