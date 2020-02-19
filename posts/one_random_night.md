@@ -7,7 +7,7 @@ description: >-
   lost the love of my life, my best friend unexpectedly on a random weekend
   night.
 date: 2020-02-13T14:25:15.360Z
-shareImage: /assets/img/EBADFD52-1DAF-434B-8A34-4F4A16D56118_1_201_a.jpeg
+shareImage: /assets/img/E2F86FD8-A7C8-4A7A-A9EC-8B88A2EC7419_1_201_a.jpeg
 tags:
   - life and loss
 author: Sarah Schmedes Chatman
