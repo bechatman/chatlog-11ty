@@ -6,7 +6,7 @@ description: >-
   I never thought the week of Valentine’s Day would be harder for me than any
   other day after losing Brian. But on this day, after a hard week, I am
   reminded of why I'm grateful and thankful for our love. 
-date: 2020-02-15T01:44:12.796Z
+date: 2020-02-14T13:44:00.000Z
 shareImage: /assets/img/EBB9BCA2-18D2-454E-BA1D-518AC7722DA6_1_201_a.jpeg
 tags:
   - life and loss
