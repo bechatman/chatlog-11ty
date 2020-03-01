@@ -3,7 +3,7 @@ layout: post
 permalink: '/{{ title | slug | urlEscape }}/index.html'
 title: The Yellow Umbrella
 description: For Brian.
-date: 2020-02-22T02:30:07.638Z
+date: 2020-02-21T14:30:00.000Z
 shareImage: /assets/img/8E32B641-01E4-4B5D-A5FD-C9840849DC72_1_201_a.jpeg
 tags:
   - life and loss
