@@ -25,9 +25,9 @@ We are incredibly fortunate to have Jonas, our sweet, happy, healthy baby boy. M
 
 Brian and I had always talked about having two children. I liked growing up in a set of three, but we agreed that given our age, the cost of raising a family, and just jobs and life…well, two would be a good number. Jonas wouldn’t be an only child. He’d have a buddy. Life would be the four of us and Bella.
 
-We even talked about names. I liked Luke for a boy. Brian liked Lucas. Lucas would have been a great name. If it was a girl, my favorite name was Hannah. Brian liked Hannah, but he really liked Lorelai (and we would call her Rory) – yes, from Gilmore Girls.
+We even talked about names. I liked Luke for a boy. Brian liked Lucas. Lucas would have been a great name. If it was a girl, my favorite name was Hannah. Brian liked Hannah, but he really liked Lorelai (and we would call her Rory) – yes, from *Gilmore Girls*.
 
-Brian loved Gilmore Girls. I think he loved the connection, strength, and perseverance of Lorelai, her bond with Rory, and how they had this amazing life just the two of them. I know Brian would hope for parallels for me and Jonas.
+Brian loved *Gilmore Girls*. I think he loved the connection, strength, and perseverance of Lorelai, her bond with Rory, and how they had this amazing life just the two of them. I know Brian would hope for parallels for me and Jonas.
 
 I think Hannah Lorelai would have been a great name.
 
