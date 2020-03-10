@@ -21,7 +21,7 @@ Brian would live in a three-story townhouse, centrally located to town. It would
 
 After finishing his coffee, Brian would walk down the street to his local record and music store. He’d spend 30 minutes browsing through the bins, looking for the latest music that he didn’t already have in his collection at home, and try out various guitars. He’d walk down the street to an amazing taco place for lunch, one with great corn tortillas and the best queso.
 
-Brian would spend the afternoon jamming with the best. He’d be in a band with Tom Petty and Neil Peart (drummer from Rush), and perhaps with Cliff Burton (bassist from Metallica). He’d get to learn music from some of the greatest.
+Brian would spend the afternoon jamming with the best. He’d be in a band with Tom Petty and Neil Peart (drummer from Rush), and perhaps with Cliff Burton (bass guitarist from Metallica). He’d get to learn music from some of the greatest.
 
 He’d also live within walking distance of an amazing burger place and spend his evenings laughing and talking with George Carlin. George Carlin would definitely be a member of Brian’s “Dinner Club” – you know, that imaginary dinner party you can have with anyone dead or alive. George Carlin was an extremely funny and profound man. He had amazing insights into life, ones Brian and I related to well.
 
