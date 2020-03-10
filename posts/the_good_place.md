@@ -4,7 +4,7 @@ permalink: '/{{ title | slug | urlEscape }}/index.html'
 title: The Good Place
 description: 'If you could choose any afterlife, what would it be? This would be Brian''s.'
 date: 2020-03-09T13:52:00.000Z
-shareImage: /assets/img/889626c6-193b-4213-8ed7-30e748653091_1_201_a.jpeg
+shareImage: /assets/img/02c22325-9546-4748-8a75-946179e74bcc_1_201_a.jpeg
 tags:
   - life and loss
 author: Sarah Schmedes Chatman
