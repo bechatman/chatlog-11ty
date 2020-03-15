@@ -21,7 +21,7 @@ So, on Brian’s birthday today, I want to share some of the messages that were 
 ----------------------------------------
 
 
-“Brian was a hell of a guy. Without exaggeration, one of the smartest and thoughtful people I’ve ever worked with. One of the few people who can make their work truly their passion and strive to be an expert and expand his knowledge no matter what the subject. Such a rare mix of compassion, intelligence, and clarity. He will remain in my eyes as someone to strive to emulate even after he’s gone.”
+> “Brian was a hell of a guy. Without exaggeration, one of the smartest and thoughtful people I’ve ever worked with. One of the few people who can make their work truly their passion and strive to be an expert and expand his knowledge no matter what the subject. Such a rare mix of compassion, intelligence, and clarity. He will remain in my eyes as someone to strive to emulate even after he’s gone.”
 
 “I loved every single interaction I had with Brian. His jovial spirit, his wit, his love of music … His dedication to exceptional work and the care he put into everything he did. In the brief time I worked with Brian I was exposed to so much goodness.”
 
