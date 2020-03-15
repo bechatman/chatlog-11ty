@@ -57,4 +57,4 @@ So, on Brian’s birthday today, I want to share some of the messages that were 
 
 > “We'll miss you, Brian. Your impeccably timed dad jokes, your quiet thoughtfulness, and your kind spirit. You were a true friend.”
 
-> “Brian was such a kind man, with an incredible mind and was a good friend to us all
+> “Brian was such a kind man, with an incredible mind and was a good friend to us all."
