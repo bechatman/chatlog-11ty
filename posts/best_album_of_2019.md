@@ -9,7 +9,7 @@ tags:
   - music
 author: Bradley Chatman
 ---
-To join in with Sarah’s recent posts in Life and Loss, this is my own take-over of the blog’s Music tab. 
+To join in with Sarah’s recent posts in [Life and Loss](https://www.chatlog.blog/life-and-loss/), this is my own take-over of the blog’s Music tab. 
 
 I never intended to post on Brian’s blog. In fact, I never spent much time on it to begin with. However, in the wake of his passing, I feel compelled to pick up the torch. 
 
