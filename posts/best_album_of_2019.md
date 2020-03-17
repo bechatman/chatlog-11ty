@@ -3,7 +3,7 @@ layout: post
 permalink: '/{{ title | slug | urlEscape }}/index.html'
 title: Best Album of 2019
 description: Picking up the torch.
-date: 2020-03-15T15:36:00.000Z
+date: 2020-03-16T15:36:00.000Z
 shareImage: /assets/img/d0d8f22b-c153-4469-9a72-c7046290cf97_1_201_a.jpeg
 tags:
   - music
@@ -31,7 +31,7 @@ I’m excited to document my musical journey using something Brian created. I al
 
 
 
-“Melancholy” by Shadow of Intent
+## **“Melancholy” by Shadow of Intent**
 
 
 
@@ -43,7 +43,7 @@ Shadow of Intent is one of those bands that passed me by on several occasions, c
 
 
 
-The thing that first attracted me to Shadow of Intent was their musicality. Listening to “Melancholy” as a cohesive body, the pacing is right on point. The flow from song to song, and even the transitions between sections within songs, carries you on a sonic journey through the whole album. I noticed that they even seemed to dial back the use of gutturals, blending more of the vocals with the atmosphere of the music.
+The thing that first attracted me to Shadow of Intent was their musicality. Listening to “Melancholy” as a cohesive body, the pacing is right on point. The flow from song to song, and even the transitions between sections within songs, carries you on a sonic journey through the whole album. I noticed that they even seemed to dial back the use of guttural vocals, blending the vocals more with the atmosphere of the music. I’ve grown to appreciate a wide range of high and low screaming styles in metal, but I still haven’t been able to warm up to gutturals. To me, the way they are incorporated in this album is just right.
 
 
 
