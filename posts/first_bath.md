@@ -41,7 +41,7 @@ The next day was the day before Brian’s funeral. Numerous family members were 
 
 After everyone arrived, I remember being in the bathroom alone with Jonas. I can’t remember what I was doing, maybe I was brushing his teeth. It was time to start getting him ready for his bath and put him to bed. The comfort of being around family began to wane as I could hear chatter and laughter out in the living room. Being alone with Jonas in the bathroom made me feel so far away – alone in this new world of sorrow, grief, pain, and fear.
 
-I suddenly felt completely broken again without anyone to help me. In that moment, I said out loud, “I can’t believe I have to f*ing to do this alone”. And just as the words escaped my mouth, my sister-in-law, Kelly, appeared in the doorway of the bathroom and said “Sarah, do you need any help with Jonas?”
+I suddenly felt completely broken again without anyone to help me. In that moment, I said out loud, “I can’t believe I have to f*ing do this alone”. And just as the words escaped my mouth, my sister-in-law, Kelly, appeared in the doorway of the bathroom and said “Sarah, do you need any help with Jonas?”
 
 As much as I was embarrassed that I had said such a word in front of my infant son, I was so grateful for Kelly. I was grateful that her and my brother were there that night, not just for Brian’s funeral, but to spend Hanukkah dinner with us. I was grateful for her appearing in that exact moment – a moment where I felt I was crumbling into a thousand pieces. She was there for me that night and the next, to help me during the hardest days of my life. She helped me bathe Jonas that night and put him to bed. It made me feel just a little less alone, and less afraid.
 
