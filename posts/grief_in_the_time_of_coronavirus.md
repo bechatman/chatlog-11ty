@@ -8,7 +8,7 @@ description: I felt like Jonas and I were just starting to get to a point where
   situation of loss, loneliness, and uncertainty. We’re now starting from square
   one again, even if just for a little while.
 date: 2020-04-09T14:57:00.000Z
-shareImage: /assets/img/888c16a7-ca94-4966-8e3e-370ea99990dc_1_201_a.jpeg
+shareImage: /assets/img/8879986e-cf3c-4748-becb-2429dc6c4429_1_201_a.jpeg
 tags:
   - life and loss
 author: Sarah Schmedes Chatman
