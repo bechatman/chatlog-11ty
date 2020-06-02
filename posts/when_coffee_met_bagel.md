@@ -10,7 +10,7 @@ description: It was five years ago that a single Brian and a single Sarah each
 date: 2020-04-22T14:34:00.000Z
 shareImage: /assets/img/825114f6-ed27-45da-9960-4469616ccad1.jpg
 tags:
-  - Life and Loss
+  - life and loss
 author: Sarah Schmedes Chatman
 ---
 It was five years ago that a single Brian and a single Sarah each tapped on their smartphone screen – a tap that would change their lives forever.
