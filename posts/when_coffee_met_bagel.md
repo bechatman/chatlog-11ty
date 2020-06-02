@@ -8,7 +8,7 @@ description: It was five years ago that a single Brian and a single Sarah each
   five years later as I smile, laugh, and tear up reading our first words to
   each other.
 date: 2020-04-22T14:34:00.000Z
-shareImage: /assets/img/825114f6-ed27-45da-9960-4469616ccad1.jpg
+shareImage: /assets/img/07191ed9-5491-4ad7-92a4-039f64c775bc_1_201_a.jpeg
 tags:
   - life and loss
 author: Sarah Schmedes Chatman
