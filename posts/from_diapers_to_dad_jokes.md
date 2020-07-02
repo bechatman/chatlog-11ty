@@ -2,7 +2,8 @@
 layout: post
 permalink: /{{ title | slug | urlEscape }}/index.html
 title: From Diapers to Dad Jokes
-description: Happy Father's Day, Brian!
+description: Happy Father’s Day to the best dad I’ll ever know. Our son is the
+  luckiest guy in the whole world to be able to call you Dad.
 date: 2020-06-21T15:52:00.000Z
 shareImage: /assets/img/523b2688-62d8-47a6-a917-e47d86a5f776_1_201_a.jpeg
 tags:
