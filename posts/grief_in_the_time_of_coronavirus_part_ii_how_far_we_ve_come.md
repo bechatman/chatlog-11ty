@@ -3,7 +3,7 @@ layout: post
 permalink: /{{ title | slug | urlEscape }}/index.html
 title: "Grief in the Time of Coronavirus, Part II: How Far We’ve Come"
 description: "Sometimes you don’t know what you’re capable of until you’re forced into it. "
-date: 2020-08-03T01:44:28.841Z
+date: 2020-08-02T13:44:00.000Z
 shareImage: /assets/img/37211840-2985-49f1-b9ec-c4827c395d7d_1_201_a.jpeg
 tags:
   - life and loss
