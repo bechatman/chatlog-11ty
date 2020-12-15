@@ -7,7 +7,7 @@ description: "It’s been exactly one year since Brian died. Today is a day to
 date: 2020-12-15T06:57:00.000Z
 shareImage: /assets/img/06A78850-FCA7-42AE-ACC5-96B2B2C0B7A7_1_201_a.jpeg
 tags:
-  - LifeandLoss
+  - Life and Loss
 author: Sarah Chatman
 ---
 One year ago, I stood before family and friends and spoke the hardest words that have ever come out of my mouth – my eulogy for Brian. The first few sentences were probably inaudible to most of those standing in the cold, on that winter day, two days before Christmas. Rows and rows of people stood in the Beth-EI section of Greenwood Memorial Park Cemetery in Fort Worth to say their last goodbyes to Brian.
